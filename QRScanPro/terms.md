@@ -1,6 +1,6 @@
 # QR Scanner Pro - End User License Agreement (EULA)
 
-Last updated: May 2024*
+Last updated: May 2025
 
 ## 1. Introduction
 
